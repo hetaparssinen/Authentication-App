@@ -6,7 +6,7 @@ Authentication app is running Node.js backend, Vue.js frontend, firebase Could F
 
 These versions were used for local development, others can work too but they haven't been tested 😀
 
-Node.js 14.5.0
+Node.js 14.5.0<br>
 Vue 4.5.8
 
 Note: this setup is for Mac, other can work too but haven't been tested eather.
