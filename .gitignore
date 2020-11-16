@@ -89,6 +89,7 @@ functions/node_modules/
 #
 # Client
 # 
+client/src/config/
 client/.DS_Store
 client/node_modules
 client/dist
