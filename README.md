@@ -1,16 +1,18 @@
-Authentication app: https://natural-cycles-4c683.web.app/
+# Authentication app
 
-Authentication app is running node.js backend, vue.js frontend, firebase Could Firestore and is hosted in firebase.
+Authentication app live: https://natural-cycles-4c683.web.app/
 
-These version were used to local development, others can work too but haven't been tested 😀
+Authentication app is running Node.js backend, Vue.js frontend, firebase Could Firestore and is hosted in Firebase Hosting.
 
-Node.js 14.5.0
+These versions were used for local development, others can work too but they haven't been tested 😀
+
+Node.js 14.5.0<br>
 Vue 4.5.8
 
 Note: this setup is for Mac, other can work too but haven't been tested eather.
 
 
-## Clone prpject
+## Clone project
 ```
 git clone https://github.com/hetaparssinen/Authentication-App.git
 ```
@@ -44,7 +46,7 @@ npm install
 ```
 
 
-# Developing
+## Developing
 
 Note: run all from root folder `/Authentication-App`.
 
@@ -82,3 +84,12 @@ Will deploy frontend & backend
 ```
 npm run deploy
 ```
+
+## Data in database
+
+How the data looks in database when saved:
+
+![DB Example](https://raw.githubusercontent.com/hetaparssinen/Authentication-App/master/db-example.png?token=ACK52WSGZGMW2RRGMJ7RFZ27XOJ2Y)
+
+
+
