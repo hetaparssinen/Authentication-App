@@ -45,6 +45,9 @@ Frontend setup
 npm install
 ```
 
+## First time run, add database config
+Copy file `natural-cycles-4c683-firebase-adminsdk-dyc3x-4a825c372b.json` to function/config/
+
 
 ## Developing
 
