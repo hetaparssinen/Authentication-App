@@ -84,3 +84,12 @@ Will deploy frontend & backend
 ```
 npm run deploy
 ```
+
+## Data in database
+
+How the data looks in database when saved:
+
+![DB Example](https://raw.githubusercontent.com/hetaparssinen/Authentication-App/master/db-example.png?token=ACK52WSGZGMW2RRGMJ7RFZ27XOJ2Y)
+
+
+
